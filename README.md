@@ -13,9 +13,8 @@ _A cutting-edge 3D web experience inspired by futuristic themes, showcasing a hy
 
 **3D Futuristic Garage** is a visually immersive web application that delivers a stunning 3D garage experience. Built with modern web technologies, it’s designed for interactivity and performance, providing users with a glimpse of the future.  
 
-**Accuracy: 10/10** 💯  
 
----
+
 ---
 
 ## 🌐 **Live Demo**  
@@ -86,11 +85,13 @@ Use a live server for enhanced performance:
 ```bash  
 npx live-server  
 ```
+---
 ## 📧 **Contact**  
 
 Feel free to reach out for any queries or suggestions:  
 - **Developer:** Saurabh  
 - **Email:** saurabh20002004@gmail.com  
+- 🌐 **Portfolio:** [saurabh-portfolio.com](https://saurabh-git-hub.github.io/Saurabh-Portfolio/) 
 
 ---
 
